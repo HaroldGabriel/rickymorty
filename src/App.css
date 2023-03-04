@@ -1,5 +1,12 @@
 .App {
+  min-height: 100vh;
   text-align: center;
+  background-image: url('./../src/assets/estrellas2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  
 }
 
 .App-logo {
@@ -36,3 +43,5 @@
     transform: rotate(360deg);
   }
 }
+
+

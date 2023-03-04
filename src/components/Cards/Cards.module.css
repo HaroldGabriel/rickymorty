@@ -1,0 +1,7 @@
+.cardContainer{
+    display: flex;
+    flex-flow: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    margin-top: 3%;
+}
